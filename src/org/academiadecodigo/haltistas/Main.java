@@ -9,7 +9,7 @@ public class Main {
         Game game = new Game();
         game.init();
 
-        Controller controller = new Controller();
+        Controller controller = new Controller(game);
         controller.init();
     }
 }

@@ -9,13 +9,16 @@ public class Controller implements KeyboardHandler{
 
     private Game game;
 
-    public Controller(){
 
-
+    public Controller(Game game){
+        this.game = game;
     }
 
 
     public void init(){
+
+
+
 
 
     }
