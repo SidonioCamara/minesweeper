@@ -10,5 +10,11 @@ public class Game {
 
     public void init(){
 
+        Board board = new Board();
+        board.init ();
+
+        Cursor cursor = new Cursor();
+        cursor.init();
+
     }
 }

@@ -59,6 +59,7 @@ public class Controller implements KeyboardHandler {
 
             default:
                 System.out.println("keyPressed() problem");
+                break;
 
         }
     }
