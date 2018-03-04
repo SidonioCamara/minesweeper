@@ -1,5 +1,7 @@
 package org.academiadecodigo.haltistas;
 
+import org.academiadecodigo.haltistas.game.Game;
+
 public class Main {
 
     public static void main(String[] args) {
